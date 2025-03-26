@@ -11,6 +11,13 @@ const experiences = ref([
   },
   {
     id: 2,
+    title: 'Ciência Da Computação',
+    type: "Bacharelado em Ciência da Computação",
+    description: 'Universidade do Estado de Santa Catarina',
+    date: '2025 - 2030'
+  },
+  {
+    id: 3,
     title: 'Bootcamp Bradesco - Java Cloud Native',
     type: "Bootcamp",
     description: 'DIO - 90 horas',
@@ -18,7 +25,7 @@ const experiences = ref([
     date: '2025'
   },
   {
-    id: 3,
+    id: 4,
     title: 'Microsserviços com Spring e RabbitMQ + AWS',
     type: "Curso",
     description: 'Udemy - 8.5 horas',
@@ -26,7 +33,7 @@ const experiences = ref([
     date: '2025'
   },
   {
-    id: 4,
+    id: 5,
     title: 'Fundamentals of Backend Engineering',
     type: "Curso",
     description: 'Udemy - 18 horas',
